@@ -1,0 +1,6 @@
+data/it.sadyn.ClasseVivaClient.desktop.in
+data/it.sadyn.ClasseVivaClient.metainfo.xml.in
+data/it.sadyn.ClasseVivaClient.gschema.xml
+src/main.js
+src/window.js
+src/window.ui
